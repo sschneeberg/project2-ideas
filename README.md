@@ -50,9 +50,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+![Without stretch goals](img/erd.png)
+###
+### Stretch goals included:
+![Without stretch goals](img/stretch-erd.png)
+###
 
 ----------------------------------------------------------
 ### User Stories
+
+As a user, I want to be able to reliably track my period and its symptoms.  I want to be able to see trends and the prediciton my upcoming date. As a user, I want to be able to choose which information is important to me and not have to correct assumptions based on who the app has decided is the prototypical user.
 
 ----------------------------------------------------------
 ### Wireframes
